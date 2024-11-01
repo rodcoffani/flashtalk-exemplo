@@ -2,4 +2,4 @@
 
 Nessa flash talk eu falei sobre mensagens de commit! 
 
-TODO: Falar das regras
+As regras de commit são bem úteis até
