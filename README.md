@@ -1,1 +1,3 @@
-# flashtalk-exemplo
+# Flashtalk - Exemplo
+
+Nessa flash talk eu falei sobre mensagens de commit! 
